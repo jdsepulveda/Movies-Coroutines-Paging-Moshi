@@ -1,0 +1,8 @@
+- Dagger2
+- Retrofit
+- Moshi
+- Kotlin
+- MVVM
+- Coroutine
+- Paging
+- Navigation
